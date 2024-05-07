@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @ShivomSehgal
-- 👀 I’m interested in SDE roles
-- 🌱 I’m currently learning Android Development
-- 📫 How to reach me sehgalshivom@gmail.com
+As a software development engineer at Global Metal Tech, I work with a team of experts to design, install, test, and maintain software systems for various clients in the metal industry. We use cutting-edge technologies such as Android, Node.js, and AWS to deliver high-quality, scalable, and secure solutions that meet the needs and expectations of our customers.
 
-         Thankx -->
+I have a strong background in electrical and electronics engineering, which I obtained from Vellore Institute of Technology, one of the top engineering colleges in India. I am also passionate about computer science, and I am currently pursuing a specialization in this field from Stanford University, one of the best universities in the world. I am eager to learn new skills and apply them to real-world problems. I have also published a research paper on fixed income instruments in India, demonstrating my analytical and writing abilities.
